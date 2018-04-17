@@ -1,0 +1,29 @@
+div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
+#teal{
+    background-color: teal;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#tomato{
+    background-color: tomato;
+}
+#black{
+    background-color: black;
+}
